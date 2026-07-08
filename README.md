@@ -5,4 +5,4 @@ I'm an Electronic Engineering student at UNAL (Colombia) specializing in the int
 - 🔭 **Currently building:** Real-time Audio DSP algorithms on FPGAs (Verilog).
 - ⚙️ **My Tech Stack:** C/C++, Verilog, Python, FreeRTOS, Embedded Linux (Systemd/POSIX).
 - 🧠 **Interests:** Hardware architecture, Faust/JUCE, Edge AI, and IoT.
-- 📫 **Reach me at:** [tu link de linkedin]
+- 📫 **Reach me at:** https://www.linkedin.com/in/juan-villada-sierra/
